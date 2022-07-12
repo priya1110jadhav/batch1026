@@ -11,6 +11,7 @@ yoooohooooo!!!
 are you guys are exited!!!
 let me know please...
 
+<<<<<<< HEAD
 hiiii its 2.49
 sleepingggggg
 
@@ -18,3 +19,9 @@ sleepingggggg
 hiii
 ----------------
 >>>>>>> br2
+=======
+
+------
+hiii
+---------
+>>>>>>> br1
